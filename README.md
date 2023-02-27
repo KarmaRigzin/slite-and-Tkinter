@@ -1,1 +1,1 @@
-# slite-and-Tkinter
+# sqlite-and-Tkinter
